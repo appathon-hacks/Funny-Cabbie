@@ -40,8 +40,6 @@ public class WCClient {
 
             for (String n : args) {
                 nameBuilder.append("'").append(n.replace("'", "\\'")).append("',");
-                // can also do the following
-                // nameBuilder.append("'").append(n.replace("'", "''")).append("',");
             }
 
             nameBuilder.deleteCharAt(nameBuilder.length() - 1);
