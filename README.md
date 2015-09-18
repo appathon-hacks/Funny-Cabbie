@@ -1,5 +1,5 @@
 # Funny-Cabbie
-Makes your cab travel more interesting!
+Makes your cab travel more fun and interesting!
 
 # Dependencies
 
